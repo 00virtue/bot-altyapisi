@@ -2,7 +2,7 @@
 
 📌 Prefix: ,
 
-🛠 Moderasyon
+🛠 Moderasyon: 
 giverole
 removerole
 ban
@@ -14,17 +14,17 @@ mute
 unmute
 delete
 
-⚙️ Utility
+⚙️ Utility: 
 help
 userinfo
 serverinfo
 
-🎉 Giveaway
+🎉 Giveaway: 
 giveaway <süre> <kazanan sayısı> <ödül>
 end <messageId>
 reroll <messageId>
 
-🎮 Eğlence
+🎮 Eğlence: 
 avatar
 roll
 coinflip
