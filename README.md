@@ -7,13 +7,13 @@ Bu bot; moderasyon, çekiliş (giveaway), utility ve eğlence komutlarını içe
 ⚙ Kurulum
 
 1️⃣ Dosyaları indirin
+
 2️⃣ Terminal açın ve klasöre girin
 npm install
 
 3️⃣ .env dosyasına bot tokeninizi ekleyin
 
 4️⃣ Botu başlatın
-
 node bot.js
 
 Kurulum sonrası bot aktif olacaktır.
