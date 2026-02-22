@@ -1,38 +1,20 @@
 🤖 Discord Moderasyon & Giveaway Botu
+Bu bot; moderasyon, çekiliş (giveaway), utility ve eğlence komutlarını içerir.
 
-📌 Prefix: ,
+📌 Tüm komutları görmek için:
+,help
 
-🛠 Moderasyon: 
-giverole
-removerole
-ban
-unban
-kick
-lock
-unlock
-mute
-unmute
-delete
+⚙ Kurulum
 
-⚙️ Utility: 
-help
-userinfo
-serverinfo
-
-🎉 Giveaway: 
-giveaway <süre> <kazanan sayısı> <ödül>
-end <messageId>
-reroll <messageId>
-
-🎮 Eğlence: 
-avatar
-roll
-coinflip
-meme
-say
-
-⚙ Kurulum:
+1️⃣ Dosyaları indirin
+2️⃣ Terminal açın ve klasöre girin
 npm install
-node index.js
 
-Tokeninizi .env dosyasına eklemeyi unutmayın.
+3️⃣ .env dosyasına bot tokeninizi ekleyin
+
+4️⃣ Botu başlatın
+
+node bot.js
+
+Kurulum sonrası bot aktif olacaktır.
+Herhangi bir komut listesi için ,help yazmanız yeterlidir.
